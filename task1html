@@ -110,7 +110,7 @@
 
 
                                 </tr>
-
+<aside>
                             </table>
                             <h1 id="work4">knight电影推荐网注册</h1>
                             <table>
@@ -155,14 +155,8 @@
                                     <td id="work5"><input type="button" value="确认提交"></td>
 
                                 </tr>
-
-
-
-
-
-
                             </table>
-
+</aside>
 </body>
 
 </html>
