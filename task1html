@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task1</title>
+</head>
+
+<body>
+    <h1><strong>knight电影网</strong></h1>
+    <a href="#work1">
+        <li>动漫类</li>
+    </a>
+    <a href="#work2">
+        <li>电影类</li>
+    </a>
+    <a href="#work3">
+        <li>评分</li>
+    </a>
+    <a href="#work4">
+        <li>注册</li>
+    </a>
+    <a href="#work5">
+        <li>底部</li>
+    </a>
+    <h2 id="work1">动漫类</h2>
+    <h3>进击的巨人</h3>
+    <p>作者名:谏山创 发表时间:2009年</p>
+    <p>《进击的巨人》（进撃の巨人），是日本漫画家谏山创创作的少年漫画作品，于2009年在讲谈社旗下的漫画杂志《别册少年Magazine》上开始连载。 该作品曾获2011年“这本漫画真厉害！”男性榜第1名、“讲谈社漫画赏少年部门赏”等奖项 。
+    </p>
+    <p>2012年12月正式宣布TV动画化，2013年4月6日，由WIT STUDIO改编的同名电视动画正式开始放送。 截止至2019年12月25日，单行本（含电子版）累计全球发行量突破1亿册。
+    </p>
+    <p>107年前（743年），世界上突然出现了人类的天敌“巨人”。面临着生存危机而残存下来的人类逃到了一个地方，盖起了三重巨大的城墙。人们在这隔绝的环境里享受了一百多年的和平，直到艾伦·耶格尔十岁那年，60米高的“超大型巨人”突然出现，以压倒性的力量破坏城门，其后瞬间消失，凶残的巨人们成群的冲进墙内捕食人类。</p>
+    <p>艾伦亲眼看着人们以及自己的母亲被巨人吞食，怀着对巨人无法形容的憎恨和痛恨，誓言杀死所有巨人。城墙崩坏的两年后，艾伦加入104期训练兵团学习和巨人战斗的技术。在训练兵团的三年，艾伦在同期训练兵里有着其他人无法比拟的强悍精神力。即使亲眼见过地狱也依然勇敢地向巨人挑战的艾伦，如愿以偿加入了向往已久的调查兵团。</p>
+    </br>
+    <image src="https://bkimg.cdn.bcebos.com/pic/0d338744ebf81a4c51619286d62a6059252da629?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5" width="400pz ">
+        <p>艾伦·耶格尔 / 艾伦·叶卡 (エレン･イェーガー Eren Jäger) （CV：梶裕贵） 年龄：15岁生日：3月30日身高：170cm体重：63kg 公式书数据：格斗术9 行动力10 头脑战7 协调性5 热血10 教官评价A 第104期训练兵团毕业生的No.5，现为调查兵团新入生。 本作的男主角，现任进击的巨人、始祖巨人、战锤巨人，基本属于开朗型，心性坚毅的少年，能够服从命令而不徇私情，但没有大局意识。为人真诚大度说到做到，故很容易获得同伴的信任，但当看到同伴被杀时容易失去冷静，且毫不掩饰自己对贪生怕死者的厌恶，最讨厌不自由的人。
+        </p><br>
+        <p>想了解更多有关进击的巨人的信息请点击<a href="https://baike.baidu.com/item/进击的巨人/65641?fr=aladdin " target="_blank ">百度百科</a></p>
+        <p>了解更多有关进击的巨人作评</p>
+        </br>
+        <h2 id="work2">电影类</h2>
+        <h3>阿甘正传</h3>
+        <p>导演:罗伯特·泽米吉斯 发表时间:1995</p>
+        <p>《阿甘正传》是由罗伯特·泽米吉斯执导的电影，由汤姆·汉克斯、罗宾·怀特等人主演，于1994年7月6日在美国上映。</p>
+        <p>电影改编自美国作家温斯顿·格卢姆于1986年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个领域创造奇迹的励志故事 [1] 。电影上映后，于1995年获得奥斯卡最佳影片奖、最佳男主角奖、最佳导演奖等6项大奖 [2] 。</p>
+        <p>2014年9月5日，在该片上映20周年之际，《阿甘正传》IMAX版本开始在全美上映 [3] 。</p>
+        <br>
+        <image src="https://bkimg.cdn.bcebos.com/pic/42a98226cffc1e17f9fd374e4a90f603738de90b?x-bce-process=image/resize,m_lfit,w_220,limit_1">
+            <p>剧情简介:</p>
+            <p>阿甘是个智商只有75的低能儿。在学校里为了躲避别的孩子的欺侮，听从一个朋友珍妮的话而开始“跑”。他跑着躲避别人的捉弄。在中学时，他为了躲避别人而跑进了一所学校的橄榄球场，就这样跑进了大学。阿甘被破格录取，并成了橄榄球巨星，受到了肯尼迪总统的接见。</p>
+            <p>在大学毕业后，阿甘又应征入伍去了越南。在那里，他有了两个朋友：热衷捕虾的布巴和令人敬畏的长官邓·泰勒上尉。这时，珍妮已经堕落，过着放荡的生活。阿甘一直爱着珍妮，但珍妮却不爱他。在战争结束后，阿甘作为英雄受到了约翰逊总统的接见。在一次和平集会上，阿甘又遇见了珍妮，两人匆匆相遇又匆匆分手。在“说到就要做到”这一信条的指引下，阿甘最终闯出了一片属于自己的天空。在他的生活中，他结识了许多美国的名人。他告发了水门事件的窃听者，作为美国乒乓球队的一员到了中国，为中美建交立下了功劳。猫王和约翰·列侬这两位音乐巨星也是通过与他的交往而创作了许多风靡一时的歌曲。最后，阿甘通过捕虾成了一名企业家。为了纪念死去的布巴，他成立了布巴·甘公司，并把公司的一半股份给了布巴的母亲，自己去做一名园丁。阿甘经历了世界风云变幻的各个历史时期，但无论何时，无论何处，无论和谁在一起，他都依然如故，纯朴而善良。</p>
+            <p>获奖记录:</p>
+            <ul>
+                <li>最佳影片</li>
+                <li>最佳男主角</li>
+                <li>最佳导演</li>
+                <li>最佳改编剧本</li>
+                <image src="">
+
+            </ul>
+            <p>主要角色</p>
+            <image src="https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f070847dbbe73e124b899a801f2e3?x-bce-process=image/crop,x_19,y_27,w_410,h_582/resize,m_lfit,h_780,limit_1/quality,Q_70" width="200px">
+                <p>阿甘 演员 汤姆·汉克斯（成年）、Michael Conner Humphreys（幼年）</p>
+                <image src="https://bkimg.cdn.bcebos.com/pic/35a85edf8db1cb13a636a160d554564e92584b62?x-bce-process=image/crop,x_0,y_17,w_294,h_417/resize,m_lfit,h_780,limit_1/quality,Q_70" width="200px">
+                    <p>珍妮·库伦 演员 罗宾·怀特、汉娜·豪尔（幼年）
+                    </p>
+                    <image src="https://bkimg.cdn.bcebos.com/pic/a5c27d1ed21b0ef46103f594dfc451da80cb3e14?x-bce-process=image/crop,x_0,y_0,w_504,h_715/resize,m_lfit,h_780,limit_1/quality,Q_70" width="200px">
+                        <p>邓·泰勒 演员 加里·西尼斯</p>
+                        <image src="https://bkimg.cdn.bcebos.com/pic/1c950a7b02087bf47041c39afad3572c11dfcf10?x-bce-process=image/crop,x_13,y_0,w_213,h_302/resize,m_lfit,h_780,limit_1/quality,Q_70" width="200px">
+                            <p>阿甘的母亲 演员 莎莉·菲尔德</p>
+                            <h2 id="work3">评分</h2>
+                            <h3>豆瓣评分排行榜</h3>
+                            <ol>
+                                <li>肖申克的救赎</li>
+                                <li>霸王别姬</li>
+                                <li>阿甘正传</li>
+                            </ol>
+                            <table border="1">
+                                <tr>
+                                    <th width="140px">作品</th>
+                                    <th width="140px">评分</th>
+                                    <th width="68px" height="24px">详情</th>
+                                </tr>
+                                <tr>
+                                    <td>肖申克的救赎</td>
+                                    <td>9.7</td>
+                                    <td width="68px" height="24px" align=center>
+                                        <a href="https://movie.douban.com/subject/1292052/" target="_blank"><input type="button" value="查看"></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>霸王别姬</td>
+                                    <td>9.6</td>
+                                    <td width="68px" height="24px" align=center>
+                                        <a href="https://movie.douban.com/subject/1291546/" target="_blank"><input type="button" value="查看"></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>阿甘正传</td>
+                                    <td>9.5</td>
+                                    <td width="68px" height="24px" align=center>
+                                        <a href="https://movie.douban.com/subject/1292720/" target="_blank"><input type="button" value="查看"></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="24px">总计</td>
+                                    <td colspan="2">28.8</td>
+
+
+                                </tr>
+
+                            </table>
+                            <h1 id="work4">knight电影推荐网注册</h1>
+                            <table>
+                                <tr>
+                                    <td>请输入你的邮箱地址:</td>
+                                    <td><input type="text" value="这是一个文本输入框"></td>
+                                </tr>
+                                <tr>
+                                    <td>请按要求输入你的邮箱</td>
+                                </tr>
+                                <tr>
+                                    <td>请输入密码:</td>
+                                    <td><input type="text" value="这是一个文本输入框"></td>
+                                    <td>请重复输入密码:</td>
+                                    <td><input type="text" value="这是一个文本输入框"></td>
+                                </tr>
+                                <tr>
+                                    <td>密码为6-16位字符</td>
+                                </tr>
+                                <tr>
+                                    <td>性别:</td>
+                                    <td><input type="radio" name="sex">男<input type="radio" name="sex">女</td>
+                                    <td>城市:</td>
+                                    <td><select value="city">
+                                        <option selected="selected">重庆</option>
+                                        <option>浙江</option>
+                                        <option>北京</option>
+                                        <option>上海</option>
+                                        <option>广东</option>
+                                        </select>
+
+                                    </td>
+                                    <td>爱好:</td>
+                                    <td><input type="checkbox">体育
+                                        <input type="checkbox">音乐
+                                        <input type="checkbox">游戏
+                                        <input type="checkbox">敲代码
+                                        <input type="checkbox"></td>
+                                    <td>个人描述:</td>
+
+                                    <td><input type="text" value="这是一个多行输入框,可以输入个人的描述"> </td>
+                                    <td id="work5"><input type="button" value="确认提交"></td>
+
+                                </tr>
+
+
+
+
+
+
+                            </table>
+
+</body>
+
+</html>
